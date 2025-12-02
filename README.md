@@ -135,4 +135,3 @@ Adds a new recipe to `recipes.json`
 
 ISC
 
-# Project
